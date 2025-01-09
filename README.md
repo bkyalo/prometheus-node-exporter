@@ -23,7 +23,7 @@ chmod +x install_node_exporter.sh
 - Run installer script with `sudo` privileges
 
 ```
-sudo ./install_node_exporter
+sudo ./install_node_exporter.sh
 ```
 
 Check status of the node-exporter service to make sure it is running
