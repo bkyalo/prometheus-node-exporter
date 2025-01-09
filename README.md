@@ -14,6 +14,12 @@ git clone
 cd prometheus-node-exporter
 ```
 
+- Make the installer file executable
+
+```
+chmod +x install_node_exporter.sh 
+```
+
 - Run installer script with `sudo` privileges
 
 ```
